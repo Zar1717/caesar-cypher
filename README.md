@@ -33,7 +33,7 @@ The encoded text is 'khoor'.
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/caesar-cypher.git
+   git clone https://github.com/Zar1717/caesar-cypher.git
 2. Navigate to the project folder:
    ```bash
    cd caesar-cypher
